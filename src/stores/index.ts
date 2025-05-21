@@ -1,1 +1,1 @@
-export * from "./cubeStore.js";
+export * from "./modelStore.js";
